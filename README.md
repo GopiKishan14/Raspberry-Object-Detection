@@ -18,3 +18,35 @@ pip install opencv-python
 python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 ```
 Note : Press 'q' to stop the videostream.
+
+
+## Abstract Code WalkThrough :
+
+
+* Importing
+
+![image](https://user-images.githubusercontent.com/32811229/80908634-07b54e00-8d3f-11ea-9ddb-b553f04ba80a.png)
+
+* Creating the argument parser for the python script
+![image](https://user-images.githubusercontent.com/32811229/80908719-cf623f80-8d3f-11ea-9ce2-c21dd53b5e71.png)
+
+* a
+
+![image](https://user-images.githubusercontent.com/32811229/80908757-2d8f2280-8d40-11ea-92a5-40403ec84015.png)
+
+* b
+![image](https://user-images.githubusercontent.com/32811229/80908774-57e0e000-8d40-11ea-916e-96373273c93b.png)
+
+* c
+
+![image](https://user-images.githubusercontent.com/32811229/80908793-7ba42600-8d40-11ea-85d8-1f4aab2304de.png)
+
+
+* d
+
+![image](https://user-images.githubusercontent.com/32811229/80908812-9d051200-8d40-11ea-897d-69385cca2291.png)
+
+* e
+
+![image](https://user-images.githubusercontent.com/32811229/80908821-bf972b00-8d40-11ea-8733-a00f8244de93.png)
+
