@@ -30,23 +30,24 @@ Note : Press 'q' to stop the videostream.
 * Creating the argument parser for the python script
 ![image](https://user-images.githubusercontent.com/32811229/80908719-cf623f80-8d3f-11ea-9ce2-c21dd53b5e71.png)
 
-* a
+* Initializing the list of class labels MobileNet SSD was trained to detect, then generate a set of bounding box colors for each class.
 
 ![image](https://user-images.githubusercontent.com/32811229/80908757-2d8f2280-8d40-11ea-92a5-40403ec84015.png)
 
-* b
+* Load the model and initialize the video stream.
+
 ![image](https://user-images.githubusercontent.com/32811229/80908774-57e0e000-8d40-11ea-916e-96373273c93b.png)
 
-* c
+* For each frame, obtain the detections and predictions.
 
 ![image](https://user-images.githubusercontent.com/32811229/80908793-7ba42600-8d40-11ea-85d8-1f4aab2304de.png)
 
 
-* d
+* For each detection, if prediction is above confidence (self-defined), draw the bounding box over it.
 
 ![image](https://user-images.githubusercontent.com/32811229/80908812-9d051200-8d40-11ea-897d-69385cca2291.png)
 
-* e
+* Shows the output frame with break condition key "q". On Break condition, it destroys all the windows.
 
 ![image](https://user-images.githubusercontent.com/32811229/80908821-bf972b00-8d40-11ea-8733-a00f8244de93.png)
 
