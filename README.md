@@ -59,3 +59,14 @@ Note : Press 'q' to stop the videostream.
 ### For Learning basics of OpenCV
 
 [![image](https://user-images.githubusercontent.com/32811229/80938999-b5d0fe80-8df8-11ea-95ad-3f6bae362ea4.png)](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
+
+## Fun Project for Contributors
+
+### Face Detection using Haar Cascades
+
+#### Refer to these tutorials for details.
+
+[![image](https://user-images.githubusercontent.com/32811229/80939329-f67d4780-8df9-11ea-975a-b75659ec5470.png)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html)
+
+#### Refer to this cool video of sentdex
+[![Tutorial](http://img.youtube.com/vi/88HdqNDQsEk/0.jpg)](https://www.youtube.com/watch?v=88HdqNDQsEk "Visit sentdex")
