@@ -53,11 +53,5 @@ Note : Press 'q' to stop the videostream.
 
 
 ## Learning Resources
-
-https://youtu.be/RpseX2ylEuw
-
-
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv
-
-
-[![Visit Sentdex](http://img.youtube.com/vi/PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv/0.jpg)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv "Raspberry PI")
+### For Learning basics of Raspberry PI 
+[![Tutorial](http://img.youtube.com/vi/RpseX2ylEuw/0.jpg)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv "Visit sentdex")
