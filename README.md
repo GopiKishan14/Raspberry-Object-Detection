@@ -55,3 +55,7 @@ Note : Press 'q' to stop the videostream.
 ## Learning Resources
 ### For Learning basics of Raspberry PI 
 [![Tutorial](http://img.youtube.com/vi/RpseX2ylEuw/0.jpg)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv "Visit sentdex")
+
+### For Learning basics of OpenCV
+
+[![image](https://user-images.githubusercontent.com/32811229/80938999-b5d0fe80-8df8-11ea-95ad-3f6bae362ea4.png)](https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/)
