@@ -13,7 +13,7 @@
 pip install imutils
 pip install opencv-python
 ```
-* USAGE, To run the videostream
+* USAGE, To run the videostream, clone the repo and in working directory, run
 ```
 python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
 ```
@@ -21,9 +21,9 @@ Note : Press 'q' to stop the videostream.
 
 
 ## Abstract Code WalkThrough :
+### Overviewing real_time_object_detection.py
 
-
-* Importing
+* Importing packages
 
 ![image](https://user-images.githubusercontent.com/32811229/80908634-07b54e00-8d3f-11ea-9ddb-b553f04ba80a.png)
 
