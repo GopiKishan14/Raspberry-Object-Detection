@@ -51,3 +51,20 @@ Note : Press 'q' to stop the videostream.
 
 ![image](https://user-images.githubusercontent.com/32811229/80908821-bf972b00-8d40-11ea-8733-a00f8244de93.png)
 
+
+## Learning Resources
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/videoseries?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
+<a href="https://www.youtube.com/embed/videoseries?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv
+
+
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
