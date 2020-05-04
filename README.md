@@ -1,5 +1,16 @@
 # Raspberry-Object-Detection
 
+## Upcomings
+* Guideline to run this project.
+* Abstract Code WalkThrough
+* Basic Learning Resources
+  * Raspberry Pi
+  * OpenCV
+* Fun Project for Contributors. Reference Materials
+  * A blog from OpenCV
+  * A video from sentdex (pythonprogramming.net)
+
+---
 ## Guidelines
 * This repository contains python script for the object detection on Raspberry Pi in real time using OpenCV. 
 * It uses a already trained [MobileNet](https://arxiv.org/abs/1704.04861) Architecture stored as Caffe Model. 
@@ -19,6 +30,7 @@ python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt
 ```
 Note : Press 'q' to stop the videostream.
 
+---
 
 ## Abstract Code WalkThrough :
 ### Overviewing real_time_object_detection.py
@@ -51,6 +63,7 @@ Note : Press 'q' to stop the videostream.
 
 ![image](https://user-images.githubusercontent.com/32811229/80908821-bf972b00-8d40-11ea-8733-a00f8244de93.png)
 
+---
 
 ## Learning Resources
 ### For Learning basics of Raspberry PI 
@@ -67,6 +80,8 @@ Note : Press 'q' to stop the videostream.
 #### Refer to these tutorials for details.
 
 [![image](https://user-images.githubusercontent.com/32811229/80939329-f67d4780-8df9-11ea-975a-b75659ec5470.png)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html)
+
+---
 
 #### Refer to this cool video of sentdex
 [![Tutorial](http://img.youtube.com/vi/88HdqNDQsEk/0.jpg)](https://www.youtube.com/watch?v=88HdqNDQsEk "Visit sentdex")
